@@ -11,7 +11,7 @@ URL = 'https://ransomwaretracker.abuse.ch/downloads/RW_URLBL.txt'
 
 ## download file path and filename
 download_path = './'
-download_filename = 'ransumeware_malicious_list.txt'
+download_filename = 'ransomeware_malicious_list.txt'
 
 ## import module
 import urllib2
